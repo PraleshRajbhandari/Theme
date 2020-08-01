@@ -1,0 +1,2 @@
+#theme description
+simple theme
